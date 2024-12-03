@@ -1,6 +1,6 @@
 <?php
 include "../conexion.php";
-//Estado = 1-> Activo && 2 -> inactivo
+
 
 if(isset($_POST['registrar']))
 {
